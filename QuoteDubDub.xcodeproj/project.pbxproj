@@ -7,10 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		030F54AC1E9C9D0A00A25017 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 030F54AB1E9C9D0A00A25017 /* Extensions.swift */; };
 		031BBF541E9C7165002BAFDB /* LoginTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 031BBF531E9C7165002BAFDB /* LoginTextField.swift */; };
-		03412AD61E9D3F8900CCF758 /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = 03412AD51E9D3F8900CCF758 /* Test.m */; };
-		03412B011E9D474400CCF758 /* BRFlabbyManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03412B001E9D474400CCF758 /* BRFlabbyManager.swift */; };
 		2F936CDBEBEE646DFF4C0B74 /* Pods_QuoteDubDub.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 547D5E8CB3B22A714FF8F1BB /* Pods_QuoteDubDub.framework */; };
 		51D73F061E947F2200263B76 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D73F051E947F2200263B76 /* AppDelegate.swift */; };
 		51D73F081E947F2200263B76 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D73F071E947F2200263B76 /* ViewController.swift */; };
@@ -22,10 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		030F54AB1E9C9D0A00A25017 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		031BBF531E9C7165002BAFDB /* LoginTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginTextField.swift; sourceTree = "<group>"; };
-		03412AD51E9D3F8900CCF758 /* Test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
-		03412B001E9D474400CCF758 /* BRFlabbyManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRFlabbyManager.swift; sourceTree = "<group>"; };
 		51D73F021E947F2200263B76 /* QuoteDubDub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuoteDubDub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		51D73F051E947F2200263B76 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		51D73F071E947F2200263B76 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -78,9 +72,6 @@
 				51D73F1B1E94841F00263B76 /* SignInViewController.swift */,
 				031BBF531E9C7165002BAFDB /* LoginTextField.swift */,
 				51D73F091E947F2200263B76 /* Main.storyboard */,
-				03412B001E9D474400CCF758 /* BRFlabbyManager.swift */,
-				030F54AB1E9C9D0A00A25017 /* Extensions.swift */,
-				03412AD51E9D3F8900CCF758 /* Test.m */,
 				51D73F0C1E947F2200263B76 /* Assets.xcassets */,
 				51D73F0E1E947F2200263B76 /* LaunchScreen.storyboard */,
 				51D73F111E947F2200263B76 /* Info.plist */,
@@ -232,11 +223,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				03412B011E9D474400CCF758 /* BRFlabbyManager.swift in Sources */,
-				030F54AC1E9C9D0A00A25017 /* Extensions.swift in Sources */,
 				51D73F081E947F2200263B76 /* ViewController.swift in Sources */,
 				031BBF541E9C7165002BAFDB /* LoginTextField.swift in Sources */,
-				03412AD61E9D3F8900CCF758 /* Test.m in Sources */,
 				51D73F061E947F2200263B76 /* AppDelegate.swift in Sources */,
 				51D73F1C1E94841F00263B76 /* SignInViewController.swift in Sources */,
 			);
