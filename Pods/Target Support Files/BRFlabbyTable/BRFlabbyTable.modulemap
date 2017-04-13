@@ -1,6 +1,0 @@
-framework module BRFlabbyTable {
-  umbrella header "BRFlabbyTable-umbrella.h"
-
-  export *
-  module * { export * }
-}
